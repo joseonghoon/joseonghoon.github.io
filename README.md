@@ -8,6 +8,8 @@
 (manifest.json, index.html(<link rel="manifest" href="/manifest.json"> 코드 추가))
 
 ## 정보
+<meta name="theme-color" content="#f6f6f6">
+
 Skills - 
 ![Vue Logo](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
